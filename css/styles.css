@@ -1,11 +1,40 @@
-.green-background {
-  background-color: green;
+.light-display {
+  background-color: white;
+  color: black;
 }
 
-.yellow-background {
-  background-color: yellow;
+.dark-display {
+  background-color: black;
+  color: white;
 }
 
-.red-background {
-  background-color: red;
+/* body {
+  background-color: black;
+  color: white;
+} */
+
+/* #walrus {
+  display: none;
 }
+
+.clickable-show {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show:hover {
+  text-decoration: underline;
+}
+
+.clickable-hide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 600px;
+} */

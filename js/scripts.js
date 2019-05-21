@@ -1,19 +1,19 @@
 $(document).ready(function() {
-  $("button#green").click(function() {
+  $("#light").click(function() {
     $("body").removeClass();
-    $("body").addClass("green-background");
+    $("body").addClass("light-display");
   });
 
-  $("button#yellow").click(function() {
+  $("#dark").click(function() {
     $("body").removeClass();
-    $("body").addClass("yellow-background");
-  });
-
-  $("button#red").click(function() {
-    $("body").removeClass();
-    $("body").addClass("red-background");
+    $("body").addClass("dark-display");
   });
 });
+//   $("button#red").click(function() {
+//     $("body").removeClass();
+//     $("body").addClass("red-background");
+//   });
+// });
 
 
 // $(document).ready(function() {

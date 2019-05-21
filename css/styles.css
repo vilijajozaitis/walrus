@@ -1,0 +1,25 @@
+#walrus {
+  display: none;
+}
+
+.clickable-show {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-show:hover {
+  text-decoration: underline;
+}
+
+.clickable-hide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-hide:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 600px;
+}
